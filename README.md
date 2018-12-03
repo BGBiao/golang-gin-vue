@@ -1,6 +1,6 @@
 # vue-test
 
-> A Vue.js project
+> 相关过程讲解[使用golang的gin框架和vue编写web应用](https://www.jianshu.com/p/405472fc2848)
 
 ## Build Setup
 
