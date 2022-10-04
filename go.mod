@@ -1,6 +1,6 @@
-module .
+module golang-gin-vue
 
-go 1.12
+go 1.19
 
 require (
 	github.com/gin-gonic/gin v1.4.0 // indirect
